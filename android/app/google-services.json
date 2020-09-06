@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597923908715",
+    "firebase_url": "https://sugar-challenge-97cfb.firebaseio.com",
+    "project_id": "sugar-challenge-97cfb",
+    "storage_bucket": "sugar-challenge-97cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597923908715:android:ff3dfb168f85928394b52e",
+        "android_client_info": {
+          "package_name": "com.example.sugar_challenge_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597923908715-s64qdcnsahgdbf5cav3qj7bvvnslsf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPp_hUz3ltOICOcOPCxlbN15G282XhR9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597923908715-s64qdcnsahgdbf5cav3qj7bvvnslsf42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
